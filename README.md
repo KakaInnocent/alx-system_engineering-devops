@@ -8,3 +8,4 @@ The only way to do it is the hard way of learning. So that you do not need to re
 | [0x00-shell_basics](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x00-shell_basics) | Learn how to use the shell commands |
 | [0x01-shell_permissions](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x01-shell_permissions)| Working with the various UNIX/Linux commands|
 | [0x02-shell_redirections](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x02-shell_redirections)| Dealing with shell redirections |
+| [0x03-shell_variables_expansion](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)| Variables extensions |
