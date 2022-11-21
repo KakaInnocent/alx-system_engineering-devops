@@ -11,3 +11,4 @@ The only way to do it is the hard way of learning. So that you do not need to re
 | [0x03-shell_variables_expansion](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x03-shell_variables_expansions)| Variables extensions |
 | [0x06-regular_expressions](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x06-regular_expressions) | Regular expressions in Ruby |
 | [0x09-web_infrastructure_design](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x09-web_infrastructure_design) | LAMP stacks ss|
+| [0x09-web_infrastructure_design](https://github.com/KakaInnocent/alx-system_engineering-devops/tree/main/0x09-web_infrastructure_design) | LAMP stacks ss|
